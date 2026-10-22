@@ -1,15 +1,6 @@
-# Structure generators for Nukkit PM1E
+# worldgeneration by randomMizerrr
+an world generation for nukkit pm1e
 
-Based on plugins made by [wode490390](https://github.com/wode490390)
-
-- https://github.com/wode490390/QuasiStructurePopulator
-- https://github.com/wode490390/ClassicVillagePopulator
-- https://github.com/wode490390/OceanMonumentPopulator
-- https://github.com/wode490390/StrongholdPopulator
-- https://github.com/wode490390/NetherFortressPopulator
-- https://github.com/wode490390/MineshaftPopulator
-- https://github.com/wode490390/MultiTemplateStructurePopulator
-- https://github.com/wode490390/SingleTemplateStructurePopulator
-- https://github.com/wode490390/ScatteredBuildingPopulator
-- https://github.com/wode490390/BetterVanillaGenerator
-- https://github.com/wode490390/TheEnd
+# update and stuff
+Add Lodestone in Ruined Portal
+Add Emerald in Treasures
