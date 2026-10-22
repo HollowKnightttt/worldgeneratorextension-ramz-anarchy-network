@@ -39,7 +39,8 @@ public class TreasureChest extends RandomizableContainer {
                 .register(new ItemEntry(Item.RECORD_MELLOHI, 0, 1, 1, 5))
                 .register(new ItemEntry(Item.RECORD_WAIT, 0, 1, 1, 5))
                 .register(new ItemEntry(Item.EXPERIENCE_BOTTLE, 0, 1, 1, 3))
-                .register(new ItemEntry(Item.CAKE, 0, 1, 1, 1));
+                .register(new ItemEntry(Item.CAKE, 0, 1, 1, 1))
+                .register(new ItemEntry(Item.EMERALD, 1, 1, 5));
         this.pools.put(pool1.build(), new RollEntry(5, 12, pool1.getTotalWeight()));
     }
 }
