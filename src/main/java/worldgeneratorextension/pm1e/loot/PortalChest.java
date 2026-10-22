@@ -42,7 +42,8 @@ public class PortalChest extends RandomizableContainer {
                 .register(new ItemEntry(Item.GOLDEN_HORSE_ARMOR, 0, 1, 1, 5))
                 .register(new ItemEntry(BlockID.GOLD_BLOCK, 0, 2, 1, 1))
                 .register(new ItemEntry(255 - BlockID.BELL, 0, 1, 1, 1))
-                .register(new ItemEntry(Item.ENCHANTED_GOLDEN_APPLE, 0, 1, 1, 1));
+                .register(new ItemEntry(Item.ENCHANTED_GOLDEN_APPLE, 0, 1, 1, 1))
+                .register(new ItemEntry(BlockID.LODESTONE, 0, 2, 1, 1))
         this.pools.put(pool1.build(), new RollEntry(8, 4, pool1.getTotalWeight()));
     }
 }
