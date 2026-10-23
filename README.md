@@ -1,5 +1,6 @@
 # worldgeneration by randomMizerrr
 an world generation for nukkit pm1e
+(original by PetteriM1) 
 
 # update
 fix bug at perlin noise
