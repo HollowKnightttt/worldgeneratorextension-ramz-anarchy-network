@@ -7,3 +7,6 @@ Add Emerald in Treasures
 
 # soon
 im will add better world generation
+
+# building from source
+its on [guide.md](https://github.com/HollowKnightttt/worldgeneratorextension-ramz-anarchy-network/blob/master/build.md) 
