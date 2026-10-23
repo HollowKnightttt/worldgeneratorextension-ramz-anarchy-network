@@ -8,4 +8,4 @@ fix bug at perlin noise
 nothing
 
 # building from source
-its on [guide.md](https://github.com/HollowKnightttt/worldgeneratorextension-ramz-anarchy-network/blob/master/build.md) 
+its on [build.md click here](https://github.com/HollowKnightttt/worldgeneratorextension-ramz-anarchy-network/blob/master/build.md) 
