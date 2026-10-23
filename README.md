@@ -2,11 +2,10 @@
 an world generation for nukkit pm1e
 
 # update
-Add Lodestone in Ruined Portal
-Add Emerald in Treasures
+fix bug at perlin noise
 
 # soon
-im will add better world generation
+nothing
 
 # building from source
 its on [guide.md](https://github.com/HollowKnightttt/worldgeneratorextension-ramz-anarchy-network/blob/master/build.md) 
