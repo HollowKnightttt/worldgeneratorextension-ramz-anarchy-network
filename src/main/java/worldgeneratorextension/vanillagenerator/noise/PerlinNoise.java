@@ -134,3 +134,4 @@ public class PerlinNoise extends PerlinNoiseGenerator {
         }
         return noise;
     }
+}
