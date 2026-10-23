@@ -3,8 +3,8 @@ an world generation for nukkit pm1e
 (original by PetteriM1) 
 
 # update
-fix bug at perlin noise
-100k-1b block away Infinite ocean FIXED
+- fix bug at perlin noise
+- 100k-1b block away Infinite ocean FIXED
 
 # soon
 nothing
